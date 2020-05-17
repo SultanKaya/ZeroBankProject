@@ -76,6 +76,7 @@ public class AccountActivityStepDefinitions {
             }
         }
 
+
         Assert.assertTrue("Displayed date range is wrong",check);
 //        Collections.sort(dates);
 //        System.out.println("dates get(0) :" +dates.get(0) + " and fromDate " + fromDate);
